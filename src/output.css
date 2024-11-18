@@ -770,6 +770,10 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+body {
+  font-family: "inter", sans-serif;
+}
+
 .hover\:opacity-80:hover {
   opacity: 0.8;
 }
